@@ -1,4 +1,4 @@
 package com.api.rentcarros.controller;
 
-public class VehiculoController {
+public class UserController {
 }

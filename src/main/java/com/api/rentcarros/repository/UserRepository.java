@@ -1,4 +1,4 @@
 package com.api.rentcarros.repository;
 
-public class VehiculoRepository {
+public interface UserRepository {
 }
